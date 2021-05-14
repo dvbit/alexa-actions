@@ -26,5 +26,19 @@
 		"SKILL_NAME": "home assistant custom actions",
 		"STOP_MESSAGE": "Machs gut!",
 		"WELCOME_MESSAGE": "Willkommen bei {}. Der input text ist: {}"
+	},
+	"it": {
+	    "ERROR_401": "Errore 401. Parrebbe che io non isa autorizzato ad accedere al Homeassistant. Controlla l'account linking o il token long live e riprova.",
+		"ERROR_404": "Errore 404. Non trovo l'entità input text necessaria al funzionamento dello skill. Controlla di averla aggiunta in home assistant e riprova.",
+		"ERROR_400": "Errore 400. Non riesto a comunicare con Homeassistant. Cotrolla i log Cloudwatch nel tuo account da sviluppatore.",
+		"ERROR_ACOUSTIC": "Non ho capito... <break time='200ms'/> {}",
+		"ERROR_CONFIG": "Qualcosa non va nella configurazione del custom skill. Controlla e riprova.",
+		"ERROR_SPECIFIC_DATE": "Non sono in grado di getstire date specifiche . Prova con un intervallo. Tipo tra 5 ore.",
+		"HELP_MESSAGE": "Questo skill è solo reattivo. Va chiamato da Homeassistant",
+		"OKAY": "Okay",
+		"SELECTED" : "Hai scelto {}",
+		"SKILL_NAME": "home assistant custom actions",
+		"STOP_MESSAGE": "Ok!",
+		"WELCOME_MESSAGE": "Benvenuto a {}. Il testo di input è: {}"
 	}
 }
